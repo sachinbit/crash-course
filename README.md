@@ -1,2 +1,3 @@
 # crash-course
-learning git, github
+learning git, githubes
+## teraform
